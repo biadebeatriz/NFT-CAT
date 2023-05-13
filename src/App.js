@@ -115,8 +115,8 @@ function App() {
     WEI_COST: 200000000000000000,
     DISPLAY_COST: 0.2,
     GAS_LIMIT: 28500000,
-    MARKETPLACE: "",
-    MARKETPLACE_LINK: "",
+    MARKETPLACE: "https://testnets.opensea.io/",
+    MARKETPLACE_LINK: "https://opensea.io/collection/cat-works-1",
     SHOW_BACKGROUND: false,
   });
 
